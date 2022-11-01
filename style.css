@@ -1,0 +1,53 @@
+* { margin: 0px; padding: 0px; }
+body{
+    margin: 0;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+}
+.topbar{
+    width: 100%;
+    height: 10vh;
+    background-color: rgb(27, 29, 28);
+}
+.logoimg{
+    height: 50px;
+    width: 50px;
+    padding:  10px;
+    margin-right: 10px; 
+    float: left;
+}
+
+.logoimg2{
+    height: 80px;
+    width: 200px;
+    margin-right: 10px; 
+
+}
+.topbar nav{
+    float: right;
+    padding-top:26px ;
+}
+.topbar nav a{
+    text-decoration: none;
+    color:white;
+    padding: 12px 12px;
+    text-align: center;
+}
+.topbar  nav a:hover{
+    color: black;
+    background-color: azure;
+ }
+
+.div1{
+    margin: 30px;
+}
+
+.div1 p{
+    margin: 0;
+}
+
+.sb{
+    font-size: 25px;
+    padding: 5px;
+    justify-self: center;
+}
